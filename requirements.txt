@@ -1,0 +1,4 @@
+six
+django==2.2.4
+django-advanced-filters
+django-admin-rangefilter

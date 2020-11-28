@@ -1,0 +1,5 @@
+.DS_Store
+env
+nohup.out
+**/__pycache__
+db.sqlite3
